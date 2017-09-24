@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" ?>
+<Project Title="[dlvr]">
+	<Page Title="Home">
+		<Page Title="Page"/>
+		<Page Title="Page1"/>
+		<Page Title="Page2"/>
+	</Page>
+	<Page Title="Sign in">
+		<Page Title="forgot password"/>
+	</Page>
+	<Page Title="Register Client">
+		<Page Title="Phone reg"/>
+		<Page Title="Join Class"/>
+		<Page Title="add package"/>
+		<Page Title="RECIEVERS DATA"/>
+		<Page Title="COURIER"/>
+		<Page Title="ESTIMATION">
+			<Page Title="ESTIMATION 3"/>
+			<Page Title="ESTIMATION1"/>
+			<Page Title="ESTIMATION 2"/>
+		</Page>
+		<Page Title="ORDER"/>
+		<Page Title="CONFIRM ORDER"/>
+		<Page Title="SUCCESS"/>
+		<Page Title="FIND"/>
+		<Page Title="drop wall"/>
+		<Page Title="AVAILABLE"/>
+		<Page Title="SEARCH"/>
+		<Page Title="DLIVERE PROFILE">
+			<Page Title="PROFILE 1"/>
+			<Page Title="PROFILE 2"/>
+		</Page>
+		<Page Title="COUNTDOWN ETA">
+			<Page Title="message"/>
+			<Page Title="call"/>
+		</Page>
+		<Page Title="CANCEL"/>
+		<Page Title="DLVRER HERE">
+			<Page Title="NOT YET HERE">
+				<Page Title="call"/>
+				<Page Title="message"/>
+			</Page>
+		</Page>
+		<Page Title="PAIR"/>
+		<Page Title="GOODBYE PACKAGE"/>
+		<Page Title="TRACK">
+			<Page Title="message"/>
+			<Page Title="call"/>
+		</Page>
+		<Page Title="HOME">
+			<Page Title="Edit Profile"/>
+			<Page Title="Notifications"/>
+			<Page Title="Reviews"/>
+			<Page Title="settings"/>
+			<Page Title="Help"/>
+		</Page>
+		<Page Title="Payment">
+			<Page Title="otp"/>
+		</Page>
+	</Page>
+	<Page Title="Register Dlvrer">
+		<Page Title="Phone reg"/>
+		<Page Title="Welcome"/>
+		<Page Title="Step 1">
+			<Page Title="Step 2 Waka">
+				<Page Title="STEP 3"/>
+			</Page>
+			<Page Title="Step 2 Car & Bike">
+				<Page Title="STEP 3"/>
+			</Page>
+			<Page Title="Step 2 Truck">
+				<Page Title="step 3"/>
+			</Page>
+		</Page>
+		<Page Title="HOME">
+			<Page Title="ALERT WALL"/>
+			<Page Title="NOTIFICATIONS"/>
+			<Page Title="EARNINGS">
+				<Page Title="FUND RECIEVED"/>
+				<Page Title="confirm pay"/>
+				<Page Title="REQUEST PAY"/>
+			</Page>
+			<Page Title="SETTINGS"/>
+			<Page Title="HELP"/>
+			<Page Title="REVIEWS"/>
+		</Page>
+		<Page Title="Payment">
+			<Page Title="OTP"/>
+		</Page>
+		<Page Title="REQUEST PAGE"/>
+		<Page Title="Almost there">
+			<Page Title="call"/>
+			<Page Title="message"/>
+		</Page>
+		<Page Title="Pair"/>
+		<Page Title="CONFIRM PACKAGE"/>
+		<Page Title="Cancel Trip"/>
+		<Page Title="Start trip">
+			<Page Title="message"/>
+			<Page Title="call"/>
+		</Page>
+		<Page Title="drop off">
+			<Page Title="message"/>
+			<Page Title="call"/>
+		</Page>
+		<Page Title="confirm drop off">
+			<Page Title="message"/>
+			<Page Title="call"/>
+		</Page>
+		<Page Title="Reward"/>
+	</Page>
+	<Page Title="MESSAGE"/>
+	<Page Title="CALLS"/>
+</Project>
